@@ -9,6 +9,7 @@ Proyecto de evaluación realizado tomando en cuenta el documento de requerimiento
 * Se hace uso del inyector de dependencia de .NET 6.
 * Se utiliza el archivo appsettings.json para la configuración de la cadena de conexión.
 * Al tener el enfoque database first se obtienen los modelos de datos ejecutanto el comando Scaffolding.
+* Se agrega la carpeta Script que contiene el script sql que sirve para ejecutar las consultas individuales desde cualquier cliente SQL Server
 
 ### ¿Qué contiene el proyecto?
 * Microsoft.EntityFrameworkCore
